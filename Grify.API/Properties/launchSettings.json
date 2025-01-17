@@ -1,0 +1,74 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56730",
+      "sslPort": 44302
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5255",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "sqlServer": "(localdb)\\Local",
+        "password": "",
+        "database": "Grify",
+        "sqlUser": "DESKTOP-6MBQAHV\\NeoSOFT",
+        "maxPoolsize": "100"
+      },
+      "JwtSettings": {
+        "Key": "KHPK6Ucf/zjvU4qW8/vkuuGLHeIo0l9ACJiTaAPLKbk=",
+        "Issuer": "https://localhost:7035",
+        "Audience": "http://localhost:5001",
+        "DurationInMinutes": 30
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7041;http://localhost:5255",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "sqlServer": "(localdb)\\Local",
+        "password": "p2",
+        "database": "YourDatabaseName",
+        "sqlUser": "YourSqlUserName",
+        "maxPoolsize": "100"
+      },
+      "JwtSettings": {
+        "Key": "KHPK6Ucf/zjvU4qW8/vkuuGLHeIo0l9ACJiTaAPLKbk=",
+        "Issuer": "https://localhost:7035",
+        "Audience": "http://localhost:5001",
+        "DurationInMinutes": 30
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "sqlServer": "(localdb)\\Local",
+        "password": "p3",
+        "database": "YourDatabaseName",
+        "sqlUser": "YourSqlUserName",
+        "maxPoolsize": "100"
+      },
+      "JwtSettings": {
+        "Key": "KHPK6Ucf/zjvU4qW8/vkuuGLHeIo0l9ACJiTaAPLKbk=",
+        "Issuer": "https://localhost:7035",
+        "Audience": "http://localhost:5001",
+        "DurationInMinutes": 30
+      }
+    }
+  }
+}

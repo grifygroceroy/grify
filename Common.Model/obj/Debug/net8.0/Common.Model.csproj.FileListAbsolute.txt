@@ -1,0 +1,11 @@
+D:\Grify\Grify.API\Common.Model\bin\Debug\net8.0\Common.Model.deps.json
+D:\Grify\Grify.API\Common.Model\bin\Debug\net8.0\Common.Model.dll
+D:\Grify\Grify.API\Common.Model\bin\Debug\net8.0\Common.Model.pdb
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.AssemblyInfoInputs.cache
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.AssemblyInfo.cs
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.csproj.CoreCompileInputs.cache
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.dll
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\refint\Common.Model.dll
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\Common.Model.pdb
+D:\Grify\Grify.API\Common.Model\obj\Debug\net8.0\ref\Common.Model.dll

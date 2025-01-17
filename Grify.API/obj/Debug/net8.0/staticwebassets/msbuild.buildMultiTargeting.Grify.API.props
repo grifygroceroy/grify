@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grify.API.props" />
+</Project>

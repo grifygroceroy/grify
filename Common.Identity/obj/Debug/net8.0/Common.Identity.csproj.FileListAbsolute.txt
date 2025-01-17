@@ -1,0 +1,12 @@
+D:\Grify\Grify.API\Common.Identity\bin\Debug\net8.0\Common.Identity.deps.json
+D:\Grify\Grify.API\Common.Identity\bin\Debug\net8.0\Common.Identity.dll
+D:\Grify\Grify.API\Common.Identity\bin\Debug\net8.0\Common.Identity.pdb
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.csproj.AssemblyReference.cache
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.AssemblyInfoInputs.cache
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.AssemblyInfo.cs
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.csproj.CoreCompileInputs.cache
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.dll
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\refint\Common.Identity.dll
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\Common.Identity.pdb
+D:\Grify\Grify.API\Common.Identity\obj\Debug\net8.0\ref\Common.Identity.dll

@@ -1,0 +1,12 @@
+D:\Grify\Grify.API\Common.Persistence\bin\Debug\net8.0\Common.Persistence.deps.json
+D:\Grify\Grify.API\Common.Persistence\bin\Debug\net8.0\Common.Persistence.dll
+D:\Grify\Grify.API\Common.Persistence\bin\Debug\net8.0\Common.Persistence.pdb
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.csproj.AssemblyReference.cache
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.AssemblyInfoInputs.cache
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.AssemblyInfo.cs
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.csproj.CoreCompileInputs.cache
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.dll
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\refint\Common.Persistence.dll
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\Common.Persistence.pdb
+D:\Grify\Grify.API\Common.Persistence\obj\Debug\net8.0\ref\Common.Persistence.dll

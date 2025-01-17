@@ -1,0 +1,6 @@
+@Grify.API_HostAddress = http://localhost:5255
+
+GET {{Grify.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
