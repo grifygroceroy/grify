@@ -12,6 +12,7 @@ namespace Grify.API.Controllers
         public async Task<ActionResult> GetItem([FromQuery] HomeQuery query)
         {
             return Ok(await Mediator.Send(query));
+            //new text
         }
     }
 }
