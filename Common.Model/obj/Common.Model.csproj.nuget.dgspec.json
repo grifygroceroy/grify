@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj": {}
+    "D:\\Grify\\Common.Model\\Common.Model.csproj": {}
   },
   "projects": {
-    "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj": {
+    "D:\\Grify\\Common.Model\\Common.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj",
+        "projectUniqueName": "D:\\Grify\\Common.Model\\Common.Model.csproj",
         "projectName": "Common.Model",
-        "projectPath": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj",
-        "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "D:\\Grify\\Grify.API\\Common.Model\\obj\\",
+        "projectPath": "D:\\Grify\\Common.Model\\Common.Model.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Grify\\Common.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -60,12 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

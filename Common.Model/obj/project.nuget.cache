@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iqBkI8npPSY=",
+  "dgSpecHash": "Xp9mJPTrOKdN5ly9Rze0+BFr4ERDt3qLpomenvY5euSMryq5WVCgK1uE6mbd+FP3+2mQwko27WLqE571uxM4HQ==",
   "success": true,
-  "projectFilePath": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj",
+  "projectFilePath": "D:\\Grify\\Common.Model\\Common.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Grify\\Grify.API\\Grify.API\\Grify.API.csproj": {}
+    "D:\\Grify\\Grify.API\\Grify.API.csproj": {}
   },
   "projects": {
-    "D:\\Grify\\Grify.API\\Common.Identity\\Common.Identity.csproj": {
+    "D:\\Grify\\Common.Identity\\Common.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grify\\Grify.API\\Common.Identity\\Common.Identity.csproj",
+        "projectUniqueName": "D:\\Grify\\Common.Identity\\Common.Identity.csproj",
         "projectName": "Common.Identity",
-        "projectPath": "D:\\Grify\\Grify.API\\Common.Identity\\Common.Identity.csproj",
-        "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "D:\\Grify\\Grify.API\\Common.Identity\\obj\\",
+        "projectPath": "D:\\Grify\\Common.Identity\\Common.Identity.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Grify\\Common.Identity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,39 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.Extensions.Configuration.Abstractions": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -82,30 +50,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj": {
+    "D:\\Grify\\Common.Model\\Common.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj",
+        "projectUniqueName": "D:\\Grify\\Common.Model\\Common.Model.csproj",
         "projectName": "Common.Model",
-        "projectPath": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj",
-        "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "D:\\Grify\\Grify.API\\Common.Model\\obj\\",
+        "projectPath": "D:\\Grify\\Common.Model\\Common.Model.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Grify\\Common.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,13 +84,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -147,30 +100,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Grify\\Grify.API\\Common.Persistence\\Common.Persistence.csproj": {
+    "D:\\Grify\\Common.Persistence\\Common.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grify\\Grify.API\\Common.Persistence\\Common.Persistence.csproj",
+        "projectUniqueName": "D:\\Grify\\Common.Persistence\\Common.Persistence.csproj",
         "projectName": "Common.Persistence",
-        "projectPath": "D:\\Grify\\Grify.API\\Common.Persistence\\Common.Persistence.csproj",
-        "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "D:\\Grify\\Grify.API\\Common.Persistence\\obj\\",
+        "projectPath": "D:\\Grify\\Common.Persistence\\Common.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Grify\\Common.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,31 +134,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.1.35, )"
-            },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.9.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -226,30 +150,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Grify\\Grify.API\\Grify.API\\Grify.API.csproj": {
+    "D:\\Grify\\Grify.API\\Grify.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grify\\Grify.API\\Grify.API\\Grify.API.csproj",
+        "projectUniqueName": "D:\\Grify\\Grify.API\\Grify.API.csproj",
         "projectName": "Grify.API",
-        "projectPath": "D:\\Grify\\Grify.API\\Grify.API\\Grify.API.csproj",
-        "packagesPath": "C:\\Users\\sawan\\.nuget\\packages\\",
-        "outputPath": "D:\\Grify\\Grify.API\\Grify.API\\obj\\",
+        "projectPath": "D:\\Grify\\Grify.API\\Grify.API.csproj",
+        "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
+        "outputPath": "D:\\Grify\\Grify.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,20 +172,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Grify\\Grify.API\\Common.Identity\\Common.Identity.csproj": {
-                "projectPath": "D:\\Grify\\Grify.API\\Common.Identity\\Common.Identity.csproj"
+              "D:\\Grify\\Common.Identity\\Common.Identity.csproj": {
+                "projectPath": "D:\\Grify\\Common.Identity\\Common.Identity.csproj"
               },
-              "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj": {
-                "projectPath": "D:\\Grify\\Grify.API\\Common.Model\\Common.Model.csproj"
+              "D:\\Grify\\Common.Model\\Common.Model.csproj": {
+                "projectPath": "D:\\Grify\\Common.Model\\Common.Model.csproj"
               },
-              "D:\\Grify\\Grify.API\\Common.Persistence\\Common.Persistence.csproj": {
-                "projectPath": "D:\\Grify\\Grify.API\\Common.Persistence\\Common.Persistence.csproj"
+              "D:\\Grify\\Common.Persistence\\Common.Persistence.csproj": {
+                "projectPath": "D:\\Grify\\Common.Persistence\\Common.Persistence.csproj"
               }
             }
           }
@@ -279,31 +195,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.4.1, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -315,15 +211,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
